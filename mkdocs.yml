@@ -3,14 +3,13 @@ site_name: Alessandro Siletto
 nav:
     - Home: index.md
     - IT:
-      - IT/test1.md
-      - IT/test2.md
+      - IT/kubernetes_homelab.md
     - Acquario:
-      - acquario/test1.md
-      - acquario/test2.md
-    - Tech:
-      - tech/test1.md
-      - tech/test2.md
+      - index.md
+    - Intelligenza Artificiale:
+      - index.md
+    - Biblioteca:
+      - index.md
 
 theme:
   name: simple-blog
