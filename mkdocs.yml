@@ -1,0 +1,40 @@
+site_name: Alessandro Siletto
+
+nav:
+    - Home: index.md
+    - IT:
+      - IT/test1.md
+      - IT/test2.md
+    - Acquario:
+      - acquario/test1.md
+      - acquario/test2.md
+    - Tech:
+      - tech/test1.md
+      - tech/test2.md
+
+theme:
+  name: simple-blog
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+  theme_style: light
+  site_name_style: bold
+  title_style: bold
+  sidebar: true
+  navigation_depth: 2
+  highlightjs: true
+    - yaml
+    - python
+  colors:
+    text: black
+    title: black
+    primary: black
+    background: white
+  components:
+    site_name: true
+    title: false
+    menu: true
+    preview: true
+    footer: false
+
+extra_javascript:
+ - assets/custom.js
