@@ -3,7 +3,7 @@ site_name: Alessandro Siletto
 nav:
     - Home: index.md
     - IT:
-      - IT/kubernetes-homelab.md
+      - IT/kubernetes-homelab/index.md
     - Acquario:
       - acquario/riproduzione-caridina-multidentata.md
     - Intelligenza Artificiale:
