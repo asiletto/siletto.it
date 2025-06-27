@@ -1,4 +1,4 @@
-# Stili di Architettura API: Una Guida Rapida
+# Stili di Architettura API
 
 Con miliardi di chiamate API effettuate ogni giorno, comprendere gli stili di architettura API non è mai stato così importante. Le API (Application Programming Interfaces) agiscono come ponti, permettendo a componenti software distinti di comunicare e interagire. Ecco una panoramica dei 6 stili architetturali più popolari.
 
