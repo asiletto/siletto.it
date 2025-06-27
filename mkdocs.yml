@@ -2,9 +2,9 @@ site_name: Alessandro Siletto
 
 nav:
     - Home: index.md
+    - Knowledge Base: knowledge-base/index.md
     - IT:
       - IT/kubernetes_homelab.md
-      - IT/api_architecture.md
     - Acquario:
       - index.md
     - Intelligenza Artificiale:
@@ -35,6 +35,12 @@ theme:
     menu: true
     preview: true
     footer: false
+
+plugins:
+  - macros
+
+extra_css:
+  - assets/knowledge-base.css
 
 extra_javascript:
  - assets/custom.js

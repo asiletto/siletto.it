@@ -6,6 +6,8 @@ Questo progetto documenta la creazione di un ambiente Kubernetes completo per us
 
 Dove si esplora l'architettura e il funzionamento di kubernetes.
 
+[Kubernetes for Dummies](/knowledge-base/kube_for_dummies/)
+
 ## Setup dei nodi e del bastion
 Dove si crea la configurazione iniziale dell'infrastruttura e si predispone il sistema di accesso sicuro.
 
