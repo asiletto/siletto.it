@@ -17,3 +17,18 @@ Dove si configurano strumenti per la visualizzazione e l'analisi delle metriche 
 
 ## Distributed block storage con Longhorn
 Dove si installa un sistema di storage persistente e ridondante per le applicazioni stateful.
+
+## Log Management
+Dove si implementa un sistema centralizzato per la raccolta, l'analisi e la visualizzazione dei log distribuiti, garantendo tracciabilità e diagnosi rapida dei problemi in ambienti complessi.
+
+## LiteLLM Proxy
+Dove si costruisce un layer di astrazione per i modelli di linguaggio, ottimizzando costi, gestendo fallback automatici e garantendo alta disponibilità dei servizi AI nell'infrastruttura Kubernetes.
+
+## Vault
+Dove si implementa una gestione sicura dei segreti con rotazione automatica delle credenziali, protezione crittografica e integrazione profonda con l'identity management nativo di Kubernetes.
+
+## Cert Manager con Let's Encrypt
+Dove si automatizza completamente il ciclo di vita dei certificati SSL/TLS, eliminando la gestione manuale e garantendo comunicazioni sicure senza interruzioni di servizio.
+
+## Osservabilità
+Dove si costruisce un sistema integrato di monitoraggio che correla metriche, log e tracce distribuite per fornire visibilità completa dalla performance infrastrutturale fino all'esperienza utente finale.
