@@ -4,6 +4,7 @@ nav:
     - Home: index.md
     - IT:
       - IT/kubernetes_homelab.md
+      - IT/api_architecture.md
     - Acquario:
       - index.md
     - Intelligenza Artificiale:
