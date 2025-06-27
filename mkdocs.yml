@@ -6,7 +6,7 @@ nav:
     - IT:
       - IT/kubernetes_homelab.md
     - Acquario:
-      - index.md
+      - acquario/riproduzione_caridina_multidentata.md
     - Intelligenza Artificiale:
       - AI/coding_in_the_AI_era.md
     - Biblioteca:
