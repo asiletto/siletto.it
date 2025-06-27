@@ -2,6 +2,10 @@
 
 Questo progetto documenta la creazione di un ambiente Kubernetes completo per uso domestico, ideale per sperimentare e apprendere tecnologie cloud-native. Un homelab Kubernetes offre l'opportunità di acquisire competenze pratiche su orchestrazione di container, alta disponibilità e automazione dell'infrastruttura in un ambiente controllato.
 
+## Kube for dummies
+
+Dove si esplora l'architettura e il funzionamento di kubernetes.
+
 ## Setup dei nodi e del bastion
 Dove si crea la configurazione iniziale dell'infrastruttura e si predispone il sistema di accesso sicuro.
 
