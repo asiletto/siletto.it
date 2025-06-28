@@ -8,7 +8,7 @@ nav:
       - acquario/riproduzione-caridina-multidentata.md
     - Intelligenza Artificiale:
       - AI/coding-in-the-AI-era.md
-    - Knowledge Base: knowledge-base/index.md
+    - Knowledge Base: https://kb.siletto.it/
 
 theme:
   name: simple-blog

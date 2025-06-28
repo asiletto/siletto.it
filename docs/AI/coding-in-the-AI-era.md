@@ -1,3 +1,9 @@
+---
+tags:
+  - architettura-software
+  - AI
+---
+
 # Programmare nell'Era dell'Intelligenza Artificiale
 
 Immagina questa situazione: sei uno sviluppatore che programma da anni, hai padroneggiato i tuoi linguaggi di programmazione, conosci i framework e ti senti orgoglioso della tua capacità di risolvere problemi complessi. Poi un giorno assisti a un assistente AI che scrive in pochi secondi una funzione che a te avrebbe richiesto 20 minuti; claude code scrive in 20 minuti un programma che a te avrebbe richiesto 2 giorni. Questo momento di realizzazione sta accadendo nei team di ingegneria di tutto il mondo, ed è esattamente il motivo per cui dobbiamo parlare di come il panorama degli sviluppatori sta cambiando e cosa fare al riguardo.

@@ -1,3 +1,8 @@
+---
+tags:
+  - acquario
+---
+
 # La Riproduzione del Gamberetto Amano
 
 Se c'è una sfida che può mettere alla prova anche l'acquariofilo più esperto, quella è sicuramente la riproduzione della Caridina multidentata, meglio conosciuta come gamberetto Amano. Questi piccoli e instancabili spazzini dell'acquario, resi celebri dal maestro Takashi Amano per le loro straordinarie capacità di controllo delle alghe, nascondono dietro la loro apparente semplicità uno dei cicli riproduttivi più complessi e affascinanti del mondo acquatico.
