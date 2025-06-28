@@ -11,18 +11,15 @@ Questo progetto documenta la creazione di un ambiente Kubernetes completo per us
 
 Dove si esplora l'architettura e il funzionamento di kubernetes.
 
-[Kubernetes for Dummies](knowledge-base/kube-for-dummies.md)
+ * [Kubernetes for Dummies](https://kb.siletto.it/kube-for-dummies/)
+ * [Componenti Fondamentali di Kubernetes](https://kb.siletto.it/componenti-di-kubernetes/)
 
 ## Setup dei nodi e del bastion
 Dove si crea la configurazione iniziale dell'infrastruttura e si predispone il sistema di accesso sicuro.
 
-[Host a Docker Registry](/knowledge-base/host-a-docker-registry.md)
-[Talos linux](knowledge-base/talos-for-dummies.md)
-[Setup a k8s bastion](/knowledge-base/kubernetes-bastion.md)
 ## Air-gapped Talos linux 
 Dove si installa un sistema operativo specializzato in ambiente isolato dalla rete esterna.
 
-[Air-gapped Talos Linux](/knowledge-base/air-gapped-talos-linux.md)
 ## Monitoraggio con Prometheus e Grafana
 Dove si configurano strumenti per la visualizzazione e l'analisi delle metriche di sistema in tempo reale.
 
